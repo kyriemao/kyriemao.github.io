@@ -16,6 +16,7 @@ Now, I am primarily working on conversational (interactive) information seeking 
 You can donwload my CV [here](https://drive.google.com/file/d/1D_v4JGLXdktvoX3Fr4E36TtqtoTxN6JJ/view?usp=sharing).
 
 <font face="Courier New">Email: kyriemkl (at) gmail (dot) com</font>
+<br>
 
 News
 ======
@@ -26,6 +27,15 @@ News
 
 [March, 2022] I joined Huawei Poisson Lab as a research intern.
 
+
+
+Educations
+======
+- Ph.D. student, GSAI & DIRO, Renmin University of China & Université de Montréal. *Sept. 2021 - Present* <br>
+
+- Master Degree, Department of Computer Science and Technology, Tsinghua University, *Sept. 2018 - Jul. 2021* <br>
+
+- Bachelor Degree, College of Computer Science, Nankai University, *Sept. 2014 - Jul. 2018* <br>
 
 
 
