@@ -29,23 +29,30 @@ News
 
 Educations
 ======
-Joint Ph.D. student, Gaoling School of Artificial Intelligence & Department of Computer Science and Operations Research, Renmin University of China & Université de Montréal, *Sept. 2021 - Present*.
+GSAI & DIRO, Renmin University of China & Université de Montréal. <br>
+Joint Ph.D. Student, *Sept. 2021 - Present*.
 
-Master Degree, Department of Computer Science and Technology, Tsinghua University, *Sept. 2018 - Jul. 2021*.
+Department of Computer Science and Technology, Tsinghua University.<br>
+Master Degree, *Sept. 2018 - Jul. 2021*.
 
-Bachelor Degree, College of Computer Science, Nankai University, *Sept. 2014 - Jul. 2018*.
+College of Computer Science, Nankai University.<br>
+Bachelor Degree, *Sept. 2014 - Jul. 2018*.
 
 
 
 Experiences
 ======
-Research Intern, Huawei Poisson Lab, Beijing, China. *Mar. 2022 - Present*. 
+Huawei Poisson Lab in Beijing, China.<br>
+Research Intern, *Mar. 2022 - Present*.
 
-Research Intern, ByteDance-Tiktok Search Group, Beijing, China. *Jan. 2021. - Jun. 2021*. 
+Tiktok Search Group, Bytedance in Beijing, China. <br>
+Research Intern, *Jan. 2021. - Jun. 2021*. 
 
-Research Intern, Huawei Noah's Ark Lab-Recommendation Group, Shenzhen, China. *Dec. 2019 - Jun. 2020*.
+Recommendation Group, Huawei Noah's Ark Lab in Shenzhen, China. <br>
+Research Intern, *Dec. 2019 - Jun. 2020*.
 
-Research Intern, Tencent AI Lab-Machine Learning Group, Shenzhen, China. *Jul. 2019 - Dec. 2019*.
+Machine Learning Group, Tencent AI Lab in Shenzhen, China. <br>
+Research Intern, *Jul. 2019 - Dec. 2019*.
 
 
 
