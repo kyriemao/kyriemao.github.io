@@ -31,7 +31,7 @@ News
 
 Educations
 ======
-- Ph.D. student, GSAI & DIRO, Renmin University of China & Université de Montréal. *Sept. 2021 - Present* <br>
+- Joint Ph.D. student, Gaoling School of Artificial Intelligence & Department of Computer Science and Operations Research, Renmin University of China & Université de Montréal, *Sept. 2021 - Present* <br>
 
 - Master Degree, Department of Computer Science and Technology, Tsinghua University, *Sept. 2018 - Jul. 2021* <br>
 
