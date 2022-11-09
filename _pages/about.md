@@ -54,19 +54,19 @@ Publications
 
 **ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval**<br>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian, Moran Feng, Xiaohua Cheng, Zhao Cao. **(EMNLP 2022)**.
-[Code](https://github.com/kyriemao/ConvTrans)
+[[Code]](https://github.com/kyriemao/ConvTrans)
 
 **Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval**<br>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian. **(SIGIR 2022)**.
-[Code](https://github.com/kyriemao/COTED)
+[[Code]](https://github.com/kyriemao/COTED)
 
 **UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation**<br>
 ***Kelong Mao***, Jieming Zhu, Xi Xiao, Biao Lu, Zhaowei Wang, Xiuqiang He. **(CIKM 2021)**.
-[Code](https://github.com/xue-pai/UltraGCN)
+[[Code]](https://github.com/xue-pai/UltraGCN)
 
 **SimpleX: A Simple and Strong Baseline for Collaborative Filtering**<br>
 ***Kelong Mao\****, Jieming Zhu*, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He. **(CIKM 2021)**.
-[Code](https://github.com/openbenchmark/BARS/tree/master/candidate_matching)
+[[Code]](https://github.com/openbenchmark/BARS/tree/master/candidate_matching)
 
 
 **Byte-Label Joint Attention Learning for Network Traffic Classification**<br>
@@ -75,10 +75,10 @@ Publications
 
 **Molecular Graph Enhanced Transformer for Retrosynthesis Prediction**<br>
 ***Kelong Mao***, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Peilin Zhao. **(Neurocomputing 2021)**.
-[Code](https://github.com/kyriemao/MGET)
+[[Code]](https://github.com/kyriemao/MGET)
 
 
 **Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach**<br>
 ***Kelong Mao***, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He. **(SIGIR 2020)**.
-[code](https://github.com/kyriemao/TagGNN-SIGIR)
+[[Code]](https://github.com/kyriemao/TagGNN-SIGIR)
 
