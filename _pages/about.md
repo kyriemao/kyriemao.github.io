@@ -19,7 +19,7 @@ You can donwload my CV [here](https://drive.google.com/file/d/1D_v4JGLXdktvoX3Fr
 News
 ======
 
-[Oct., 2022] We have a paper accepted by EMNLP 2022 main conference, thanks to all co-authors!
+[Oct., 2022] We have a paper accepted by EMNLP 2022, thanks to all co-authors!
 
 [Apr., 2022] We have a paper accepted by SIGIR 2022, thanks to all co-authors!
 
