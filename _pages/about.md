@@ -19,6 +19,8 @@ You can donwload my CV [here](https://drive.google.com/file/d/1D_v4JGLXdktvoX3Fr
 News
 ======
 
+[Nov., 2022] We have a paper accepted by AAAI 2023, thanks to all co-authors!
+
 [Oct., 2022] We have a paper accepted by EMNLP 2022, thanks to all co-authors!
 
 [Apr., 2022] We have a paper accepted by SIGIR 2022, thanks to all co-authors!
@@ -59,6 +61,11 @@ Research Intern, *Jul. 2019 - Dec. 2019*.
 
 Publications
 ======
+
+
+FinalMLP: An Enhanced Dual-Stream MLP Model for CTR Prediction<br>
+***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. **(AAAI 2023)**.
+<!-- [[Code]](https://github.com/kyriemao/ConvTrans) -->
 
 ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval<br>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian, Moran Feng, Xiaohua Cheng, Zhao Cao. **(EMNLP 2022)**.
