@@ -11,7 +11,7 @@ I am a 2nd-year joint Ph.D. student at Renmin University of China (RUC) and Univ
 My research interests include information retrieval, natural language processing, and recommender systems.
 Now, I am primarily working on conversational (interactive) information seeking to improve users' information seeking experience through natural conversations.
 
-You can donwload my CV [here](https://drive.google.com/file/d/1D_v4JGLXdktvoX3Fr4E36TtqtoTxN6JJ/view?usp=sharing).
+You can donwload my CV [here](https://drive.google.com/file/d/1CQ5GT2kPL0YuSw4lIPNWw_IbX-laVPir/view?usp=share_link).
 
 <font face="Courier New">Email: kyriemkl (at) gmail (dot) com</font>
 <br>
@@ -63,7 +63,7 @@ Publications
 ======
 
 
-FinalMLP: An Enhanced Dual-Stream MLP Model for CTR Prediction<br>
+FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction<br>
 ***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. **(AAAI 2023)**.
 <!-- [[Code]](https://github.com/kyriemao/ConvTrans) -->
 
