@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a 2nd-year joint Ph.D. student at Renmin University of China (RUC) and Université de Montréal (UdeM), supervised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Bang Liu](https://www-labs.iro.umontreal.ca/~liubang/), respectively.
-My research interests include information retrieval, natural language processing, and recommender systems.
-Now, I am primarily working on conversational (interactive) information seeking to improve users' information seeking experience through natural conversations.
+My research interests include (interactive) information retrieval, natural language processing, and recommender systems.
 
 You can donwload my CV [here](https://drive.google.com/file/d/1CQ5GT2kPL0YuSw4lIPNWw_IbX-laVPir/view?usp=share_link).
 
