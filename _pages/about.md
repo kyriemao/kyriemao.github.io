@@ -66,11 +66,11 @@ Publications
 ***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. **<font color="#008B8B">	(AAAI 2023)</font>**.
 <!-- [[Code]](https://github.com/kyriemao/ConvTrans) -->
 
-**<font color="#4682B4">**ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval<br></font>**
+**<font color="#4682B4">ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval<br></font>**
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian, Moran Feng, Xiaohua Cheng, Zhao Cao. **<font color="#008B8B">(EMNLP 2022)</font>**.
 [[Code]](https://github.com/kyriemao/ConvTrans)
 
-**<font color="#4682B4">**Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval<br></font>**
+**<font color="#4682B4">Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval<br></font>**
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian. **<font color="#008B8B">**(SIGIR 2022)</font>**.
 [[Code]](https://github.com/kyriemao/COTED)
 
