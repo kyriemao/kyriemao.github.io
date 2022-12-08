@@ -62,37 +62,37 @@ Publications
 ======
 
 
-FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction<br>
+**FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction**<br>
 ***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. **(AAAI 2023)**.
 <!-- [[Code]](https://github.com/kyriemao/ConvTrans) -->
 
-ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval<br>
+**ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval**<br>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian, Moran Feng, Xiaohua Cheng, Zhao Cao. **(EMNLP 2022)**.
 [[Code]](https://github.com/kyriemao/ConvTrans)
 
-Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval<br>
+**Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval**<br>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian. **(SIGIR 2022)**.
 [[Code]](https://github.com/kyriemao/COTED)
 
-UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation<br>
+**UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation**<br>
 ***Kelong Mao***, Jieming Zhu, Xi Xiao, Biao Lu, Zhaowei Wang, Xiuqiang He. **(CIKM 2021)**.
 [[Code]](https://github.com/xue-pai/UltraGCN)
 
-SimpleX: A Simple and Strong Baseline for Collaborative Filtering<br>
+**SimpleX: A Simple and Strong Baseline for Collaborative Filtering**<br>
 ***Kelong Mao\****, Jieming Zhu*, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He. **(CIKM 2021)**.
 [[Code]](https://github.com/openbenchmark/BARS/tree/master/candidate_matching)
 
 
-Byte-Label Joint Attention Learning for Network Traffic Classification<br>
+**Byte-Label Joint Attention Learning for Network Traffic Classification**<br>
 ***Kelong Mao***, Xi Xiao, Guangwu Hu, Xiapu Luo, Bin Zhang, Shutao Xia. **(IWQoS 2021)**.
 
 
-Molecular Graph Enhanced Transformer for Retrosynthesis Prediction<br>
+**Molecular Graph Enhanced Transformer for Retrosynthesis Prediction**<br>
 ***Kelong Mao***, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Peilin Zhao. **(Neurocomputing 2021)**.
 [[Code]](https://github.com/kyriemao/MGET)
 
 
-Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach<br>
+**Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach**<br>
 ***Kelong Mao***, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He. **(SIGIR 2020)**.
 [[Code]](https://github.com/kyriemao/TagGNN-SIGIR)
 
