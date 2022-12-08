@@ -62,8 +62,8 @@ Publications
 ======
 
 
-<font color="#4682B4">**FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction**<br></font>
-***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. <font color="#008B8B">	**(AAAI 2023)**</font>.
+**<font color="#4682B4">FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction<br></font>**
+***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. **<font color="#008B8B">	(AAAI 2023)</font>**.
 <!-- [[Code]](https://github.com/kyriemao/ConvTrans) -->
 
 <font color="#4682B4">**ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval**<br></font>
