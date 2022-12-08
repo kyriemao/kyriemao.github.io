@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a 2nd-year joint Ph.D. student at Renmin University of China (RUC) and Université de Montréal (UdeM), supervised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Bang Liu](https://www-labs.iro.umontreal.ca/~liubang/), respectively.
 My research interests include (interactive) information retrieval, natural language processing, and recommender systems.
-
+Currently, I am mainly working on developing various learning algorithms and methods to build effective and efficient IR systems that support natural language-based interaction.  
 You can donwload my CV [here](https://drive.google.com/file/d/1CQ5GT2kPL0YuSw4lIPNWw_IbX-laVPir/view?usp=share_link).
 
 <font face="Courier New">Email: kyriemkl (at) gmail (dot) com</font>
