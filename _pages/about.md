@@ -62,37 +62,37 @@ Publications
 ======
 
 
-<font color="#87CEFA">**FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction**<br></font>
+<font color="#4682B4">**FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction**<br></font>
 ***Kelong Mao***, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong. <font color="#008B8B">	**(AAAI 2023)**</font>.
 <!-- [[Code]](https://github.com/kyriemao/ConvTrans) -->
 
-<font color="#87CEFA">**ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval**<br></font>
+<font color="#4682B4">**ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval**<br></font>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian, Moran Feng, Xiaohua Cheng, Zhao Cao. <font color="#008B8B">**(EMNLP 2022)**</font>.
 [[Code]](https://github.com/kyriemao/ConvTrans)
 
-<font color="#87CEFA">**Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval**<br></font>
+<font color="#4682B4">**Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval**<br></font>
 ***Kelong Mao***, Zhicheng Dou, Hongjin Qian. <font color="#008B8B">**(SIGIR 2022)**</font>.
 [[Code]](https://github.com/kyriemao/COTED)
 
-<font color="#87CEFA">**UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation**<br></font>
+<font color="#4682B4">**UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation**<br></font>
 ***Kelong Mao***, Jieming Zhu, Xi Xiao, Biao Lu, Zhaowei Wang, Xiuqiang He. <font color="#008B8B">**(CIKM 2021)**</font>.
 [[Code]](https://github.com/xue-pai/UltraGCN)
 
-<font color="#87CEFA">**SimpleX: A Simple and Strong Baseline for Collaborative Filtering**<br></font>
+<font color="#4682B4">**SimpleX: A Simple and Strong Baseline for Collaborative Filtering**<br></font>
 ***Kelong Mao\****, Jieming Zhu*, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He. <font color="#008B8B">**(CIKM 2021)**</font>.
 [[Code]](https://github.com/openbenchmark/BARS/tree/master/candidate_matching)
 
 
-<font color="#87CEFA">**Byte-Label Joint Attention Learning for Network Traffic Classification**<br></font>
+<font color="#4682B4">**Byte-Label Joint Attention Learning for Network Traffic Classification**<br></font>
 ***Kelong Mao***, Xi Xiao, Guangwu Hu, Xiapu Luo, Bin Zhang, Shutao Xia. <font color="#008B8B">**(IWQoS 2021)**</font>.
 
 
-<font color="#87CEFA">**Molecular Graph Enhanced Transformer for Retrosynthesis Prediction**<br></font>
+<font color="#4682B4">**Molecular Graph Enhanced Transformer for Retrosynthesis Prediction**<br></font>
 ***Kelong Mao***, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Peilin Zhao. <font color="#008B8B">**(Neurocomputing 2021)**</font>.
 [[Code]](https://github.com/kyriemao/MGET)
 
 
-<font color="#87CEFA">**Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach**<br></font>
+<font color="#4682B4">**Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach**<br></font>
 ***Kelong Mao***, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He. <font color="#008B8B">**(SIGIR 2020)**</font>.
 [[Code]](https://github.com/kyriemao/TagGNN-SIGIR)
 
