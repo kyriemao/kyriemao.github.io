@@ -71,7 +71,7 @@ Publications
 [[Code]](https://github.com/kyriemao/ConvTrans)
 
 **<font color="#4682B4">Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval<br></font>**
-***Kelong Mao***, Zhicheng Dou, Hongjin Qian. **<font color="#008B8B">**(SIGIR 2022)</font>**.
+***Kelong Mao***, Zhicheng Dou, Hongjin Qian. **<font color="#008B8B">(SIGIR 2022)</font>**.
 [[Code]](https://github.com/kyriemao/COTED)
 
 **<font color="#4682B4">UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation<br></font>**
