@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd-year joint Ph.D. student at Gaoling School of Artificial Intelligence (GASI), Renmin University of China (RUC), supervised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/).
+<font size=2>I am a 2nd-year joint Ph.D. student at Gaoling School of Artificial Intelligence (GASI), Renmin University of China (RUC), supervised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/).
 My research interests include (interactive) information retrieval, natural language processing, and recommender systems.
 Currently, I am mainly working on developing various learning algorithms and methods to build effective and efficient IR systems that support natural language-based interaction with users. 
 You can donwload my CV [here](https://drive.google.com/file/d/1CQ5GT2kPL0YuSw4lIPNWw_IbX-laVPir/view?usp=share_link).
+</font>
 
 <font face="Courier New">Email: kyriemkl (at) gmail (dot) com</font>
 <br>
