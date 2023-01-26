@@ -1,212 +1,180 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-    <title>Kelong Mao 毛科龙</title>
-    <meta name="author" content="Kelong Mao">
-    <link rel="shortcut icon" href="img/mkl.jpeg">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <meta name="generator" content="Hexo 5.4.0">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Xiaokai Chu (储晓恺)</title>
 </head>
-
 <body>
-    <header id="page_header">
-        <div class="header_wrap">
-            <div id="blog_name"><a class="blog_title" id="site-name" href="/">Kelong Mao 毛科龙</a></div><button
-                class="menus_icon">
-                <div class="navicon"></div>
-            </button>
-            <ul class="menus_items">
-                <li class="menus_item"><a class="site-page" href="/#About"> About</a></li>
-                <li class="menus_item"><a class="site-page" href="/#Publications"> Publications</a></li>
-                <li class="menus_item"><a class="site-page" href="/#Experience"> Experience</a></li>
-                <!-- <li class="menus_item"><a class="site-page" href="/chinese"> 中文</a></li> -->
-            </ul>
-        </div>
-    </header>
-    <main id="page_main">
-        <div class="side-card sticky">
-            <div class="card-wrap" itemscope itemtype="http://schema.org/Person">
-                <div class="author-avatar"><img class="avatar-img" src="img/mkl.jpeg"
-                        onerror="this.onerror=null;this.src='img/mkl.jpeg'" alt="avatar"></div>
-                <div class="author-discrip">
-                    <h3>Kelong Mao</h3>
-                    <p class="author-bio">CS/AI Ph.D. student at Renmin University of China</p>
-                </div>
-                <div class="author-links"><button class="btn m-social-links">Links</button>
-                    <ul class="social-icons">
-                        <li><a class="social-icon" href="https://github.com/kyriemao/" target="_blank"><i
-                                    class="fab fa-github" aria-hidden="true"></i></a></li>
-                        <li><a class="social-icon" href="kyriemkl@gmail.com" target="_blank"><i
-                                    class="fas fa-envelope" aria-hidden="true"></i></a></li>
-                    </ul>
-                    <ul class="social-links">
-                        <li><a class="e-social-link" href="https://scholar.google.com/citations?user=SXAurKsAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"
-                                    aria-hidden="true"></i><span>Google Scholar</span></a></li>
-                        <li><a class="e-social-link" href="https://www.linkedin.com/in/kelong-mao-77442a15a/" target="_blank"><i class="fa fa-linkedin" style="font-size:17px"
-                                    aria-hidden="true"></i><span> Linkedin</span></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="page" itemscope itemtype="http://schema.org/CreativeWork">
-            <article>
-                <h3 id="About"><a href="#About" class="headerlink"
-                        title="About"></a>About</h3>
-                <p>I am a second-year Ph.D. student at the <a target="_blank" rel="noopener"
-                        href="https://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence</a>, Renmin University of China.
-                        I am fortunate to be advised by <a target="_blank" rel="noopener"
-                        href="http://playbigdata.ruc.edu.cn/dou/">Prof. Zhicheng Dou</a>.
-                        Previously, I recieved M.Eng and B.Eng degrees in Computer Science from Tsinghua University in 2021 and Nankai University in 2018, respectively.
-                <p>
-                    My research directions are information retrieval and natural language processing. 
-                    Currently,  I am mainly interested in <strong>Retrieval, Generation, and their Interactions</strong> to facilitate effective, efficient, and user-friendly information accessing.
-                    For example, 
-                    few/zero-shot IR, pretraining for IR, conversational search, 
-                    retrieval-augmented generation, knowledge-grounded generation (QA, fact checking), etc.
-                </p>      
-                <!-- <p>
-                    I've been mainly working on the following research topics and projects:
-                </p>
-                <ul>
-                    <li><strong>Conversational Search</strong>: <u>Developing methods for accurate question understanding and passage retrieval in the complex dialogue context.</u>
-                    Understanding users' real search intents from the complex dialogue context to provide more natural and convenient natural language-based search experience.
-                    I worked on improving conversational dense retrieval models learn to denoise irrelevant turns of the context <a target="_blank" rel="noopener"
-                    href="https://dl.acm.org/doi/10.1145/3477495.3531961">(SIGIR'22)</a>, alleviating the data scarcity problem to support the training of conversational dense retrieval models <a target="_blank" rel="noopener"
-                    href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.190/">(EMNLP'22)</a>, developing an efficient and effective lexical-based conversational retriever, and
-                     developing conversational query rewriting models augmented with downstream retrieval information (Ongoing).
-                    </li>
-                    
-                    <li><strong>Recommender Systems</strong>: 
-                        <u>Developing simple yet effective and efficient recommendation models w.r.t. collaborative filtering, CTR prediction, etc.</u>
-                        I worked on developing a simple two-stream MLP-based model for CTR prediction <a target="_blank" rel="noopener"
-                        href="">(AAAI'23)</a>, an ultra simplification of GNN for efficient and effective collaborative filtering <a target="_blank" rel="noopener"
-                        href="https://dl.acm.org/doi/10.1145/3459637.3482291">(CIKM'21)</a>, and proposing a simple unified collaborative filtering model with a new cosine contrastive loss <a target="_blank" rel="noopener"
-                        href="https://dl.acm.org/doi/10.1145/3459637.3482297">(CIKM'21)</a>.
-                    </li>
-                </ul>    -->
-            
-                <!-- <p>
-                I also have broad interests in NLP/IR/Interdisciplinary ML: ML for network traffic classification <a target="_blank" rel="noopener"
-                href="https://ieeexplore.ieee.org/document/9521316">(IWQoS'21)</a>, ML for chemical retrosynthesis prediction <a target="_blank" rel="noopener"
-                href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221009413">(NeuroComputing'21)</a>, and textual item tagging with graph neural networks <a target="_blank" rel="noopener"
-                href="https://dl.acm.org/doi/10.1145/3397271.3401438">(SIGIR'20)</a>.
-                </p> -->
-                <!-- <p>
-                <font color="#FF0000"><strong>I’m looking for overseas (US/Japan/Singapore/Canada/EU) research (engineer) internship opportunities.</strong></font> 
-                </p> -->
+<div id="layout-content">
+<div id="toptitle">
+<h1>Kelong Mao (毛科龙)</h1>
+</div>
+<table class="imgtable"><tr><td>
+<a href="https:/kyriemao.github.io/"><img src="picture/photo.jpeg" alt="alt text" width="120px" /></a>&nbsp;</td>
+<td align="left"><p>
+<br><br />
+Kelong Mao (毛科龙)<br />
+CS/IR/NLP Ph.D. Candidate<br />
+Renmin university of China<br />
+Email: kyriemao@gmail.com<br />
+<br />
+<!-- <a href="pdf/Aikun_Xu_CV.pdf">[CV]</a> -->
+<a href="https://scholar.google.com/citations?user=SXAurKsAAAAJ&hl=en">[Google Scholar]</a> 
+<a href="https://dblp.org/pid/270/6458.html">[DBLP]</a> 
+<a href="https://github.com/kyriemao/">[GitHub]</a>
+<a href="https://www.linkedin.com/in/kelong-mao-77442a15a/">[Linkedin]</a>
+</td></tr></table>
 
-                <p><strong>Contact</strong>: kyriemkl@gmail.com</p>
-                <!-- <h3 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h3>
-                <ul>
-                    <li>Ph.D. Student, Gaoling School of Artificial Intelligence, Renmin University of China. Sep. 2021  - Present.</li>
-                    <li>M.Eng, Department of Computer Science and Technology, Tsinghua University.</li>
-                    <li><strong>Sep. 2014  - Jun. 2018</strong>, B.Eng, Colledge of Computer Science, Nankai University.</li>
-                </ul> -->
+<h2>About</h2>
+<p>I am a second-year Ph.D. student at the <a target="_blank" rel="noopener"
+  href="https://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence</a>, Renmin University of China.
+  I am fortunate to be advised by <a target="_blank" rel="noopener"
+  href="http://playbigdata.ruc.edu.cn/dou/">Prof. Zhicheng Dou</a>.
+  Previously, I recieved M.Eng and B.Eng degrees in Computer Science from Tsinghua University in 2021 and from Nankai University in 2018, respectively.
+</p>
+<p>
+  My research directions are information retrieval and natural language processing. 
+  I am interested in <strong>Retrieval, Generation, and their Interactions</strong> to facilitate effective, efficient, and user-friendly information accessing. For example,
+</p>
+<ul>
+  <li><p>Few/zero-shot IR</p></li>
+  <li><p>Pretraining for IR</p></li>
+  <li><p>Conversational Search</p></li>
+  <li><p>Knowledge-grounded/Retrieval-augmented Generation.</p></li>
+</ul>
+  
 
-                <h3 id="News">News</h3>
-                <ul>
-                    <li><strong>[Jan. 2023]</strong> One paper about conversational search was accepted by WWW 2023.</li>
-                    <li><strong>[Nov. 2022]</strong> One paper about CTR prediction was accepted by AAAI 2023.</li>
-                </ul>
-                
-                <h3 id="Experience"><a href="#Research-Experience" class="headerlink"
-                        title="Experience"></a>Experience</h3>
-                <ul>
-                    <li><strong>Bytedance, Tiktok Search</strong>, Research Engineer Intern. Jan. 2021 - Jun. 2021.</li>
-                    <!-- <li><strong>Tencent Wechat Search</strong>, Research Engineer Intern. Jul. 2020 - Sep. 2020.</li> -->
-                    <li><strong>Huawei Noah's Ark Lab</strong>, Research Intern. Dec. 2019 - Jul. 2020.</li>
-                    <li><strong>Tencent AI Lab</strong>, Research Intern. Jul. 2019 - Dec. 2019.</li>
-                </ul>
+<!-- 
+<h2>Education & Academic visits</h2>
+<td align="left">Tencent Inc., Shanghai [2022.7 ~ Now]
+  <ul>
+    <li>Senior Algorithm Engineer</li> 
+  </ul>
+</td>
+<td align="left">Baidu Inc., Beijing [2021.4 ~ 2022.6]
+<ul>
+  <li>Research Scientist (Intern) at Search Science Lab</li> 
+</ul>
+</td>
+<td align="left">Institute of Computing Technology, Chinese Academy of Sciences, Beijing [2016.9 ~ 2022.6]
+  <ul>
+    <li><p>Ph.D. in Computer Science and Technology</li> 
+  </ul>
+</td>
+<td align="left">University of Science and Technology of China (USTC), Hefei, Anhui [2012.9 ~ 2016.6]
+  <ul>
+    <li>B.Sc. in Computer Science and Technology</li> 
+  </ul>
+</td> -->
 
-                <h3 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications
-                </h3>
-                <p>* indicates equal contributions.</p>
-                <p><u>About NLP and IR: conversational search, dense text retrieval, textual item tagging.</u></p>
-                <ul>
-                    <li><strong>Kelong Mao</strong>, Hongjin Qian, Fengran Mo, Zhicheng Dou, Bang Liu, Xiaohua Cheng, Zhao Cao.
-                        Learning Denoised and Interpretable Session Representation for Conversational Search.
-                        <strong>(WWW 2023)</strong></li>  <img src="img/new.gif"></li>
-                    <li><strong>Kelong Mao</strong>, Zhicheng Dou, Hongjin Qian, Fengran Mo, Xiaohua Cheng, Zhao Cao.
-                        ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval.
-                        <strong>(EMNLP 2022)</strong></li>
+<h2>News</h2>
+<ul>
+  <li><strong>[Jan. 2023]</strong> One paper about conversational search was accepted by WWW 2023.</li>
+  <li><strong>[Nov. 2022]</strong> One paper about CTR prediction was accepted by AAAI 2023.</li>
+</ul>
 
-                    <li><strong>Kelong Mao</strong>, Zhicheng Dou, Hongjin Qian.
-                        Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval.
-                        <strong>(SIGIR 2022)</strong></li>
-                    
-                    <li><strong>Kelong Mao</strong>, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He.
-                        Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach.
-                        <strong>(SIGIR 2020)</strong></li>
-                </ul>
-                
-                <p><u>About recommender systems: graph-based recommendation, CTR prediction.</u></p>
-                <ul>
-                    <li><strong>Kelong Mao</strong>, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong.
-                        FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction.
-                        <strong>(AAAI 2023)</strong></li>
-                        
 
-                    <li><strong>Kelong Mao</strong>, Jieming Zhu, Xi Xiao, Biao Lu, Zhaowei Wang, Xiuqiang He.
-                        UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation.
-                        <strong>(CIKM 2021)</strong></li>
-                    
-                    <li><strong>Kelong Mao*</strong>, Jieming Zhu*, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He.
-                        SimpleX:ASimpleand Strong Baseline for Collaborative Filtering.
-                        <strong>(CIKM 2021)</strong></li>
-                </ul>
 
-                <p><u>About interdisciplinary ML: ML+Network, ML+Chemistry.</u></p>
-                <ul>
-                    <li><strong>Kelong Mao</strong>, Xi Xiao, Guangwu Hu, Xiapu Luo, Bin Zhang, Shutao Xia.
-                        Byte-Label Joint Attention Learning for Network Traffic Classification.
-                        <strong>(IWQoS 2021)</strong></li>
+<h2>Research Experiences</h2>
+<ul>
+<li><strong>Bytedance, Tiktok Search</strong>, Research Engineer Intern. Jan. 2021 - Jun. 2021.</li>
+<!-- <li><strong>Tencent Wechat Search</strong>, Research Engineer Intern. Jul. 2020 - Sep. 2020.</li> -->
+<li><strong>Huawei Noah's Ark Lab</strong>, Research Intern. Dec. 2019 - Jul. 2020.</li>
+<li><strong>Tencent AI Lab</strong>, Research Intern. Jul. 2019 - Dec. 2019.</li>
+</ul>
 
-                    <li><strong>Kelong Mao</strong>, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Peilin Zhao.
-                        Molecular Graph Enhanced Transformer for Retrosynthesis Prediction.
-                        <strong>(Journal of Neurocomputing 2021)</strong></li>
-                </ul>
 
-                <h3 id="Honors-and-Awards"><a href="#Honors-and-Awards" class="headerlink"
-                        title="Honors and Awards"></a>Honors and Awards</h3>
-                <ul>
-                    <li>National Scholarship for Doctoral Students, Renmin University of China, 2022. (Top 5% Ph.D. students)</li>
-                    <li>ACM SIGIR 2022 Student Travel Grant.</li>
-                    <li>Comprehensive Excellent First-class Scholarship, Tsinghua University, 2020.</li>
-                </ul>
-            </article>
-        </div>
-    </main>
-    <div class="nav-wrap">
-        <div class="nav"><button class="site-nav">
-                <div class="navicon"></div>
-            </button>
-            <ul class="nav_items">
-                <li class="nav_item"><a class="nav-page" href="/#About"> About</a></li>
-                <li class="nav_item"><a class="nav-page" href="/#Publications"> Publications</a></li>
-                <li class="nav_item"><a class="nav-page" href="/#Experience"> Experience</a></li>
-                <!-- <li class="nav_item"><a class="nav-page" href="/chinese"> 中文</a></li> -->
-            </ul>
-        </div>
-        <div class="cd-top"><i class="fa fa-arrow-up" aria-hidden="true"></i></div>
-    </div>
-    <footer id="page_footer">
-        <div class="footer_wrap">
-            <div class="copyright">&copy;by Kelong Mao</div>
-            <div class="theme-info">Powered by <a target="_blank" href="https://hexo.io"
-                    rel="nofollow noopener">Hexo</a> & <a target="_blank"
-                    href="https://github.com/PhosphorW/hexo-theme-academia" rel="nofollow noopener">Academia Theme</a>
-            </div>
-        </div>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js"></script>
-    <script src="/js/main.js"></script>
+<h2>Publications</h2>
+(* denotes equal contributions)
+
+
+<ul><li><p>Learning Denoised and Interpretable Session Representation for Conversational Search.<br />
+  <strong>Kelong Mao</strong>, Hongjin Qian, Fengran Mo, Zhicheng Dou, Bang Liu, Xiaohua Cheng, Zhao Cao.<br />
+  WWW 2023. <img src="picture/new.gif"> </i></p>
+  </li>
+  </ul>
+
+<ul>
+  <li><p>FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction.<br />
+    <strong>Kelong Mao</strong>, Jieming Zhu, Liangcai Su, Guohao Cai, Yuru Li, Zhenhua Dong.<br />
+    AAAI 2023.</p>
+  </li>
+</ul>
+
+
+<ul><li><p>ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval.<br />
+  <strong>Kelong Mao</strong>, Zhicheng Dou, Hongjin Qian, Fengran Mo, Xiaohua Cheng, Zhao Cao.<br />
+  EMNLP 2022. </i></p>
+  </li>
+  </ul>
+
+
+<ul><li><p>Curriculum Contrastive Context Denoising for Few-shot Conversational Dense Retrieval.<br />
+  <strong>Kelong Mao</strong>, Zhicheng Dou, Hongjin Qian.<br />
+SIGIR 2022.</i></p>
+</li>
+</ul>
+
+
+
+<ul><li><p>UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation.<br />
+  <strong>Kelong Mao</strong>, Jieming Zhu, Xi Xiao, Biao Lu, Zhaowei Wang, Xiuqiang He.<br />
+CIKM 2021.
+</li>
+</ul>
+
+<ul><li><p>SimpleX:A Simple and Strong Baseline for Collaborative Filtering.<br />
+  <strong>Kelong Mao*</strong>, Jieming Zhu*, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He.<br />
+CIKM 2021.
+</li>
+</ul>
+
+
+
+<ul><li><p>Byte-Label Joint Attention Learning for Network Traffic Classification.<br />
+  <strong>Kelong Mao</strong>, Xi Xiao, Guangwu Hu, Xiapu Luo, Bin Zhang, Shutao Xia.<br />
+IWQoS 2021.
+</li>
+</ul>
+
+<ul><li><p>Molecular Graph Enhanced Transformer for Retrosynthesis Prediction.<br />
+  <strong>Kelong Mao</strong>, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Peilin Zhao.<br />
+  Journal of Neurocomputing, 2021.
+  </li>
+  </ul>
+
+<ul><li><p>Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach.<br />
+  <strong>Kelong Mao</strong>, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He.<br />
+SIGIR 2020.
+</li>
+</ul>
+
+
+
+
+<!-- 
+<h2>Conference Reviewer</h2>
+<ul>
+  <li><p>2023: NeurIPS</p></li>
+  <li><p>2022: KDD, SIGIR</p></li>
+  <li><p>2021: CCL</p></li>
+</ul> -->
+
+<h2>Awards</h2>
+<ul>
+  <li>National Scholarship for Doctoral Students, Renmin University of China, 2022. (Top 5% Ph.D. students in RUC)</li>
+  <li>ACM SIGIR 2022 Student Travel Grant.</li>
+  <li>Comprehensive Excellent First-class Scholarship, Tsinghua University, 2020.</li>
+</ul>
+
+
+<div id="footer">
+<div id="footer-text">
+</div>
+</div>
+</div>
 </body>
-
 </html>
